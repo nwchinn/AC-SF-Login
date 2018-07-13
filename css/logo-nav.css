@@ -1,0 +1,44 @@
+/*!
+ * Start Bootstrap - Logo Nav (https://startbootstrap.com/template-overviews/logo-nav)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-logo-nav/blob/master/LICENSE)
+ */
+
+html, body {
+    height: 100%;
+    font-family: 'Alfa Slab One', cursive;
+    color:#16216A;
+    text-shadow: -1px 0 white, 0 2px white, 2px 0 white, 0 -1px white;
+	overflow-x: hidden !important;
+	margin: auto !important;
+}
+.fill-height {
+    height: 100%;
+    /*height:auto !important; /* cross-browser */
+    
+}
+
+.middle {
+	height: 60%;
+	/*background:transparent url('http://www.birds.com/wp-content/uploads/home/bird4.jpg') no-repeat center center /cover;*/
+	background:transparent url('C:/Users/Marketing/Desktop/Nicks Stuff/rightURL/img/background.png') no-repeat center center /cover;
+	background-repeat: no-repeat, repeat;
+	background-size: cover;
+	text-align: center;
+
+}
+
+.banner {
+	height:19%;
+}
+
+.border {
+	height: 1%;
+	background-color: white;
+}
+
+/*@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}*/
